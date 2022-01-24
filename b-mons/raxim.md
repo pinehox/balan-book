@@ -1,6 +1,6 @@
 # Raxim, a criatura da floresta
 
-![mew1_2](https://i.imgur.com/1IcBkyl.png)
+<center>![mew1_2](https://i.imgur.com/1IcBkyl.png)</center>
 
 ***
 
