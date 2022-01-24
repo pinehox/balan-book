@@ -1,6 +1,6 @@
 # Raxim, a criatura da floresta
 
-![mew1_2](C:\Users\Escritório\Desktop\mew1_2.png)
+![mew1_2](https://i.imgur.com/1IcBkyl.png)
 
 ***
 
