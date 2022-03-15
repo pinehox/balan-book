@@ -10,17 +10,17 @@
 
 **Raridade**: _Incomum_
 
-Raxins são encontrados, em sua maioria, nos locais mais nebulosos da floresta, isso porque são criaturas que preferem permanecer não vistas por humanos e outros animais. Seu grande rabo felpudo o ajuda a manter o equilíbrio e também são usados para amortecer sua queda de grandes alturas. Sua pelagem pode variar por diversos fatores, como clima, gênero e família.
+Raxins são encontrados, em sua maioria, nos locais mais nebulosos da floresta, isso porque são criaturas que preferem permanecer não vistas por humanos e outras criaturas. Seu grande rabo felpudo os ajudam a manter o equilíbrio e também são usados para amortecer sua queda de grandes alturas. Sua pelagem pode variar por diversos fatores, como clima, gênero e região.
 
 > **História**
 
-Não se sabe exatamente de qual região os Raxins se originaram, mas essas criaturas podem ser encontradas em praticamente qualquer lugar do mundo, e, independente do local, uma coisa é certa: Nunca mexa com as cenouras de um Raxim!
+Apesar de terem uma aparência dócil, essas criaturas carregam um grande poder, que se manifesta por meio de condições específcas, transformando-os em grandes e selvagens monstros. Não se sabe exatamente de qual região os Raxins se originaram, mas essas criaturas podem ser encontradas em praticamente qualquer lugar do mundo, e, independente do local, uma coisa é certa: Nunca mexa com a comida de um Raxim!
 
 ***
 
 > **Combate**
 
-Raxins são extremamente úteis para dungeons com hordas de inimigos específicos, como caveiras e voplins. Além de conseguir servir como um _critter_ tanque em sua forma monstruosa, também te ajudam a escapar de lutas não requisitadas enquanto você explora ou recupera seus atributos.
+Raxins são extremamente úteis para dungeons com inimigos que lutam em hordas, como caveiras e voplins. Além de conseguir servir como um _critter_ tanque em sua forma monstruosa, também te ajudam a escapar de lutas não requisitadas enquanto você explora ou recupera sua vida e energia.
 
 | Habilidade                            | Descrição                                                    |
 | :------------------------------------ | :----------------------------------------------------------- |
